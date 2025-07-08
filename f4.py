@@ -1,1 +1,3 @@
-print("ote add origin https://github.com/bIunda070/bAIML25-26.git")
+b=54
+c=78
+print("addition of two numbers=",c)
